@@ -93,6 +93,13 @@ body {
 }
 
 
+/* heading text*/
+.leadText {
+  position:absolute;
+  z-index:15;
+  margin:0 auto;
+}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -125,10 +132,28 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
+
+  /* heading text*/
+  .leadText {
+    position:absolute;
+    z-index:15;
+    margin:0 auto;
+  }
+
+  .matchHeight {
+    margin: 6em auto;
+  }
 }
 
 @media (min-width: 992px) {
-  .featurette-heading {
-    margin-top: 120px;
+  .featurette {
+    margin: 8em auto;
+  }
+
+  /* heading text*/
+  .leadText {
+    position:absolute;
+    z-index:10;
+    margin:0 auto;
   }
 }
