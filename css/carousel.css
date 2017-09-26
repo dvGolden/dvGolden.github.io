@@ -95,9 +95,13 @@ body {
 
 /* heading text*/
 .leadText {
-  position:absolute;
+  color: white;
+  left: 0;
+  top: 5em;
+  position: absolute;
   z-index:15;
-  margin:0 auto;
+  text-align: center;
+  width: 100%;
 }
 
 /* RESPONSIVE CSS
@@ -133,15 +137,23 @@ body {
     font-size: 50px;
   }
 
-  /* heading text*/
-  .leadText {
-    position:absolute;
-    z-index:15;
-    margin:0 auto;
-  }
-
   .matchHeight {
     margin: 6em auto;
+  }
+
+  .homeMatchHeight{
+    margin: 6em auto;
+  }
+
+  /* heading text*/
+  .leadText {
+    color: white;
+    left: 0;
+    top: 12em;
+    position: absolute;
+    z-index:15;
+    text-align: center;
+    width: 100%;
   }
 }
 
@@ -152,8 +164,29 @@ body {
 
   /* heading text*/
   .leadText {
-    position:absolute;
-    z-index:10;
-    margin:0 auto;
+    color: white;
+    left: 0;
+    top: 16em;
+    position: absolute;
+    z-index:15;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1440px) {
+  .centerSuperHighRez {
+    margin: 0 auto;
+  }
+
+  /* heading text*/
+  .leadText {
+    color: white;
+    left: 0;
+    top: 22em;
+    position: absolute;
+    z-index:15;
+    text-align: center;
+    width: 100%;
   }
 }
