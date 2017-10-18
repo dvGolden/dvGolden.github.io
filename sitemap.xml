@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/dvGolden.github.io/</loc>
+    <loc>https://dvgolden.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/dvGolden.github.io/insurance/</loc>
+    <loc>https://dvgolden.github.io/insurance/</loc>
   </url>
   
   <url>
-    <loc>/dvGolden.github.io/procurement/</loc>
+    <loc>https://dvgolden.github.io/procurement/</loc>
   </url>
   
   <url>
-    <loc>/dvGolden.github.io/shipping/</loc>
+    <loc>https://dvgolden.github.io/shipping/</loc>
   </url>
   
 </urlset>

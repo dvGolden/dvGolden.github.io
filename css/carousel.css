@@ -95,20 +95,20 @@ body {
 
 /* heading text*/
 .leadText {
-  color: white;
+  color:white;
+  font-weight: bold;
   left: 0;
-  top: 5em;
+  top: 2.5em;
   position: absolute;
   z-index:15;
   text-align: center;
   width: 100%;
-  
 }
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
-@media (min-width: 768px) {
+@media (min-width: 767px) {
   /* Navbar positioning foo */
   .navbar-wrapper {
     margin-top: 20px;
@@ -148,9 +148,10 @@ body {
 
   /* heading text*/
   .leadText {
-    color: white;
+    color:white;
+    font-weight: 900;
     left: 0;
-    top: 12em;
+    top: 6em;
     position: absolute;
     z-index:15;
     text-align: center;
@@ -165,9 +166,10 @@ body {
 
   /* heading text*/
   .leadText {
-    color: white;
+    color:white;
+    font-weight: 900;
     left: 0;
-    top: 16em;
+    top: 7em;
     position: absolute;
     z-index:15;
     text-align: center;
@@ -182,9 +184,11 @@ body {
 
   /* heading text*/
   .leadText {
-    color: white;
+    color:white;
+    font-size: 4em;
+    font-weight: 999;
     left: 0;
-    top: 22em;
+    top: 4.5em;
     position: absolute;
     z-index:15;
     text-align: center;
