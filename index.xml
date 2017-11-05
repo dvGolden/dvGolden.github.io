@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DV Golden</title>
-    <link>/dvGolden.github.io/index.xml</link>
-    <description>Recent content on DV Golden</description>
+    <title>DV Golden Time Shipping and Insurance</title>
+    <link>https://dvgolden.github.io/index.xml</link>
+    <description>Recent content on DV Golden Time Shipping and Insurance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/dvGolden.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dvgolden.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Insurance</title>
-      <link>/dvGolden.github.io/insurance/</link>
+      <link>https://dvgolden.github.io/insurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dvGolden.github.io/insurance/</guid>
+      <guid>https://dvgolden.github.io/insurance/</guid>
       <description>
 
 &lt;h1 id=&#34;insurance&#34;&gt;Insurance&lt;/h1&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>Procurement</title>
-      <link>/dvGolden.github.io/procurement/</link>
+      <link>https://dvgolden.github.io/procurement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dvGolden.github.io/procurement/</guid>
+      <guid>https://dvgolden.github.io/procurement/</guid>
       <description>
 
 &lt;h1 id=&#34;procurement&#34;&gt;Procurement&lt;/h1&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Shipping</title>
-      <link>/dvGolden.github.io/shipping/</link>
+      <link>https://dvgolden.github.io/shipping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/dvGolden.github.io/shipping/</guid>
+      <guid>https://dvgolden.github.io/shipping/</guid>
       <description>
 
 &lt;h1 id=&#34;shipping&#34;&gt;Shipping&lt;/h1&gt;
